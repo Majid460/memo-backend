@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "functions": {
+        "api/resolve-model.ts": {
+            "maxDuration": 10
+        }
+    }
+}
